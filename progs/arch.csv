@@ -1,0 +1,76 @@
+#TAG,NAME IN REPO (or git url),PURPOSE (should be a verb phrase to sound right while installing)
+,xorg-xset,makes the keyboard go faster.
+,xorg-server, is the graphical interface
+,sx,starts the graphical server.
+,xorg-xrandr,sets the screen resolution and refresh rate.
+,xorg-xrdb,sets up the color schemes and fonts in most programs.
+,setxkbmap, allows you to change keyboard layouts.
+,ttf-linux-libertine,provides the sans and serif fonts for DVPS.
+,ttf-font-awesome,provides additional fonts and glyphs for DVPS.
+,noto-fonts-ttf,provides additional fonts to DVPS.
+,noto-fonts-cjk,"provides chinese, japanese, and korean fonts to DVPS."
+,lf,is an extensive terminal file manager that everyone likes.
+,ueberzug,allows image previews on the file manager.
+A,dragon-drop,provides a gui interface for dragging and dropping files for the file.
+,picom,is for transparency and removing screen-tearing.
+,xprop,is a tool for detecting window properties.
+,dosfstools,allows your computer to access dos-like filesystems.
+,dunst,is a suckless notification system.
+A,nsxiv,is a minimalist image viewer.
+,xwallpaper,sets the wallpaper.
+,ffmpeg,can record and splice video and audio on the command line.
+A,flat-remix-gtk,gives the dark GTK theme.
+,udisks2,is a disk management service.
+,udiskie,is a removable disk autonomer using udisks.
+,neovim,a tidier vim with some useful features
+,mpd,is a lightweight music daemon.
+,mpc,is a terminal interface for mpd.
+,mpv,is the patrician's choice video player.
+,man-db,lets you read man pages of programs.
+,ncmpcpp,a ncurses interface for music with multiple formats and a powerful tag editor.
+,newsboat,is a terminal RSS client.
+A,ungoogled-chromium-bin, is a comfy web browser.
+,noto-fonts-emoji,is an emoji font.
+,nerd-fonts-ttf,provides some other glyphs.
+,ntfs-3g,allows accessing NTFS partitions.
+,pipewire,is the audio system.
+,pipewire-pulse,gives pipewire compatibility with PulseAudio programs.
+,pulsemixer,is an audio controler.
+,pamixer,is a command-line audio interface.
+,maim,can take quick screenshots at your request.
+,unzip,unzips zips.
+,lynx,is a terminal browser.
+,xclip,allows for copying and pasting from the command line.
+,xorg-xdpyinfo,aids with resolution determination and screen recording.
+,yt-dlp,can download any YouTube video (or playlist or channel) when given the link.
+,zathura,is a pdf viewer with vim-like bindings.
+,zathura-pdf-mupdf,allows mupdf pdf compatibility in zathura.
+,mediainfo,shows audio and video information.
+A,atool,manages and gives information about archives.
+A,zsh-fast-syntax-highlighting,provides syntax highlighting in the shell.
+G,https://github.com/Kho-Dialga/dmenu-dialga.git,runs commands and provides a UI for selection.
+G,https://github.com/Kho-Dialga/st-dialga.git,is my custom build of suckless's terminal emulator.
+A,mutt-wizard,is a light-weight terminal-based email system.
+,slock,"allows you to lock your computer, and quickly unlock with your password."
+,xob,is a lightweight volume (or anything) bar for the X Window System.
+,sxhkd,is a simple X hotkey daemon.
+,trash-cli,is a command line trash can interface.
+,neofetch,a CLI system information tool.
+,xcb-util-cursor,is the XCB cursor library.
+,starship,"is a minimal, fast and customizable cross-shell prompt."
+,redshift,adjusts the color temperature of your screen according to your surroundings.
+,noto-fonts,is the Google Noto TTF fonts.
+,zsh-autosuggestions,provides fish-like autosuggestions for zsh.
+,zsh-history-substring-search,is a clean-room implementation of fish's history search feature.
+,wmctrl,detects which window manager is running.
+,cronie,is the system cron daemon.
+,transmission-cli,is the torrent daemon.
+A,tremc,is a console client for transmission.
+,pam-gnupg,automatically unlocks GPG keys at startup.
+,xdg-utils,assists programs with desktop interation tasks.
+,psmisc,is a small that use the linux proc filesystem.
+,lm_sensors,"is a utility for reading temperature, voltage, and fan sensors."
+,fcitx5,is a flexible input tool.
+,fcitx-mozc,is an fcitx module for a japanese input method.
+,fcitx5-configtool,is a GTK based config tool for fcitx.
+,fcitx5-gtk,is a gtk im module for fcitx.

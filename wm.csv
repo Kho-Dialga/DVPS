@@ -1,0 +1,13 @@
+# This is a list of all the window managers which you can install.
+# Each one of them needs to be in their respective package name.
+# The fisrt column is how each window manager will get installed.
+# The second one is the window manager name.
+# The third one is the window manager package or git repo.
+# The forth one is any additional packages needed.
+# The fifth one is the command to launch the window manager.
+# The sixth one is filler needed for dialog.
+,awesome,awesome,,awesome,1
+G,dwm,https://github.com/Kho-Dialga/dwm-dialga.git,,dwm,2
+,i3-gaps,i3-gaps,polybar,i3,3
+,bspwm,bspwm,polybar,bspwm,4
+,xmonad,xmonad,xmobar xmonad-contrib,xmonad,5
